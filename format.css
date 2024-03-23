@@ -1,0 +1,55 @@
+html {
+  background-color: #f1faee;
+}
+
+.menu {
+  display: flex;
+  background-color: #b0c4b1;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.title {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.overview {
+  /* text-align: center; */
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.dotted-line {
+  border-top: 1px dotted black; /* Adjust color and thickness as needed */
+  width: 100%; /* Adjust width as needed */
+}
+
+td {
+  text-align: center;
+}
+
+.ca {
+  /* text-align: center; */
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#link {
+  text-align: center;
+}
+
+.functionality {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.img {
+  display: flex;
+  justify-content: space-around;
+}
